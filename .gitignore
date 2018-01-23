@@ -1,0 +1,15 @@
+int/
+*.sdf
+*.db
+*.opendb
+*.ilk
+*.pdb
+*.iobj
+*.ipdb
+*.sln
+*.exe
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.suo
+.vs/
